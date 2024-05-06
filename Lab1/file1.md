@@ -43,4 +43,5 @@ grep :-
 
 sed :-
 
+<img width="802" alt="Screenshot 2024-05-06 at 5 26 54 PM" src="https://github.com/Garvitb2005/OperatingSystem-/assets/142775976/f4e27b9d-b67b-47da-9bad-f436a2e6f78d">
 
