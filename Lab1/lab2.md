@@ -28,4 +28,30 @@ Exercise_4 - Write a shell script to check to see if the file “file_path” ex
 
 answer:
 
+<img width="569" alt="Screenshot 2024-05-06 at 6 16 10 PM" src="https://github.com/Garvitb2005/OperatingSystem-/assets/142775976/e50def84-4c58-4cb2-934f-7e4f29215262">
+
+Exercise_5 - Write a shell script that displays “man”,”bear”,”pig”,”dog”,”cat”,and “sheep” on the screen with each appearing on a separate line. Try to do this in as few lines as possible.
+
+answer:
+
+<img width="763" alt="Screenshot 2024-05-06 at 6 17 48 PM" src="https://github.com/Garvitb2005/OperatingSystem-/assets/142775976/738742c2-af58-4a03-adb2-f7edefddb926">
+
+Exercise_6 - write a shell script that prompts the user for a name of a file or directory and reports if it is a regular file, a directory, or another type of file. Also perform an ls command against the file or directory with the long listing option.
+
+answer:
+
+<img width="1026" alt="Screenshot 2024-05-06 at 6 19 24 PM" src="https://github.com/Garvitb2005/OperatingSystem-/assets/142775976/105842b4-2408-4ae8-a987-0fb5fd53da20">
+
+
+Exercise_7 - Modify the previous script to that it accepts the file or directory name as an argument instead of prompting the user to enter it.
+
+answer:
+
+<img width="1265" alt="Screenshot 2024-05-06 at 6 23 52 PM" src="https://github.com/Garvitb2005/OperatingSystem-/assets/142775976/4dbb3bbb-d283-48c3-9dee-2d4b62d45b54">
+
+Exercise_8 - Modify the previous script to accept an unlimited number of files and directories as arguments.
+
+answer:
+
+
 
